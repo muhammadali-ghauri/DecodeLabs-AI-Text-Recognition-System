@@ -97,17 +97,17 @@ All three test images achieved the minimum 80% confidence threshold used for pro
 
 ### Project Code and Structure
 
-![Project Code](screenshots/project_code.png)
+![Project Code](screenshots/Project_code.png)
 
 ### Clean OCR Recognition Result
 
-![Clean OCR Result](screenshots/ocr_clean_result.png)
+![Clean OCR Result](screenshots/OCR_clean_result.png)
 
 **Confidence:** 91.38%
 
 ### Complex OCR Recognition Result
 
-![Complex OCR Result](screenshots/ocr_complex_result.png)
+![Complex OCR Result](screenshots/OCR_complex_result.png)
 
 **Confidence:** 80.85%
 
